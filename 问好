@@ -1,0 +1,7 @@
+<!--<h1>hello world</h1>//<h1>为开始元素，</h1>为终止元素-->
+<h2>CatPhotoApp</h2>//h1为主标题,h2,h3,h4,h5,h6为副标题
+<main>
+<p>Hello Paragraph kitty ipsum</p>//p元素为段落，主要与标题分开 
+<!--html的注释标签为-->
+ <p>Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.</p>
+</main>//main元素应包含两个元素段落
