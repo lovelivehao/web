@@ -1,7 +1,15 @@
 <!--<h1>hello world</h1>//<h1>为开始元素，</h1>为终止元素-->
+
 <h2>CatPhotoApp</h2>//h1为主标题,h2,h3,h4,h5,h6为副标题
+
+<img src="https://www.bit.ly/fcc-relaxing-cat"//img元素没有结束标签，并且需要有src属性指向图片地址
+alt="A business cat wearing a necktie"//所有的 img 元素 必须 有 alt 属性。 alt 的属性值有两个作用，第一个作用是让屏幕阅读器可以知晓图片的内容，这会对网页的可访问性有很大提升；
+//另一个作用是当图片无法加载时，页面需要显示的替代文本。注意： 如果图片是纯装饰性的，把 alt 的属性值设置为空是最佳实践。理想情况下，alt 属性不应该包含特殊字符，除非有特殊需要
 <main>
+<a href="https://www.freecatphotoapp.com">cat photos</a>//a可以实现网页之间的跳转，但需要一个 href 属性指向跳转的目的地
+
 <p>Hello Paragraph kitty ipsum</p>//p元素为段落，主要与标题分开 
 <!--html的注释标签为-->
+
  <p>Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.</p>
 </main>//main元素应包含两个元素段落
